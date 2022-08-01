@@ -1,0 +1,11 @@
+.navbar{
+    display: flex;
+    gap:1rem;
+    background-color: seagreen;
+    padding: 1rem;
+}
+.brand{
+    color:black;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
